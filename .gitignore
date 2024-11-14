@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Firebase config (ако съдържа чувствителни данни)
+firebaseConfig.js
+firebase.debug.log/
+firebase.debug.*.log/
+
+# Build output (ако билдваш проекта)
+build/
+dist/
+
+# Other temporary files
+*.log
+.vscode/
+.DS_Store
+.env
